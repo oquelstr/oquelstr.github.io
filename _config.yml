@@ -5,7 +5,7 @@ title: Hello
 author: Grace Tan
 description: > 
   A place to find me.
-baseurl: "oquelstr.github.io"
+baseurl: "gracethm.com"
 
 plugins:
   - jekyll-feed
