@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: hello
-banner_subtitle: a place for me
+banner_title: grace tan
+banner_subtitle: lorem ipsum
 background_image: /images/backgroundocean.jpg
 
 # all of the following variables are optional -----------------
