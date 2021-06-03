@@ -4,8 +4,8 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: grace tan
-banner_subtitle: lorem ipsum
+banner_title: tan hui min grace
+banner_subtitle: singapore
 background_image: /images/backgroundocean.jpg
 
 # all of the following variables are optional -----------------
@@ -23,7 +23,7 @@ linkedin: tanhuimingrace # the part after ("https://www.linkedin.com/in/...")
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: oquelstr.github.io # the link
-about_button_label: get hello # the label on the button
+about_button_label: explore # the label on the button
 
 # optional portfolio section ------------------------------------------
 

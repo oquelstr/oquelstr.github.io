@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello 
-author: Grace Tan
+title: Tan Hui Min Grace | Home
+author: Tan Hui Min Grace
 description: > 
-  A place to find me.
+  I like to write and design. 
 baseurl: "gracethm.com"
 
 plugins:
